@@ -1,0 +1,19 @@
+header {
+  background-color: #666;
+}
+
+h1 {
+  color: #3e86f3;
+}
+
+body {
+  font-size: 31px;
+}
+
+body div {
+  font-size: 22px;
+}
+
+.red {
+  color: rgba(255, 0, 0, 0.988);
+}
